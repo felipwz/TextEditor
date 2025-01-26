@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Luiz Felipe\\Projetos\\TextEditor\\TextEditor.csproj": {}
+    "C:\\Users\\Luiz Felipe\\Documents\\GitHub\\TextEditor\\TextEditor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Luiz Felipe\\Projetos\\TextEditor\\TextEditor.csproj": {
+    "C:\\Users\\Luiz Felipe\\Documents\\GitHub\\TextEditor\\TextEditor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luiz Felipe\\Projetos\\TextEditor\\TextEditor.csproj",
+        "projectUniqueName": "C:\\Users\\Luiz Felipe\\Documents\\GitHub\\TextEditor\\TextEditor.csproj",
         "projectName": "TextEditor",
-        "projectPath": "C:\\Users\\Luiz Felipe\\Projetos\\TextEditor\\TextEditor.csproj",
+        "projectPath": "C:\\Users\\Luiz Felipe\\Documents\\GitHub\\TextEditor\\TextEditor.csproj",
         "packagesPath": "C:\\Users\\Luiz Felipe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luiz Felipe\\Projetos\\TextEditor\\obj\\",
+        "outputPath": "C:\\Users\\Luiz Felipe\\Documents\\GitHub\\TextEditor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
